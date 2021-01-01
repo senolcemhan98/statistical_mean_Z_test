@@ -1,4 +1,5 @@
 # Z Testi
 
-![image](https://user-images.githubusercontent.com/58151691/103439643-ba7fd800-4c4f-11eb-8aff-4402127c7ea2.png)
+![image](https://user-images.githubusercontent.com/58151691/103439683-24987d00-4c50-11eb-8530-48786aadf278.png)
+
 
